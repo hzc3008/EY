@@ -1,0 +1,7242 @@
+NDVI_mean,NDVI_max,NDVI_min,NDVI_std,Rice Yield (kg/ha)
+"<xarray.DataArray ()>
+array(0.3396593)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52026223)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16645416)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.34035071)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52116379)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16466506)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34480403)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52182547)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.05918524)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18270826)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.34132982)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52275998)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.03035445)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17355724)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.33028597)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49988042)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15484638)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.34675763)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51730212)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16916731)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.34497833)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52431678)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.03035445)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17718244)
+Coordinates:
+    spatial_ref  int32 4326",6600
+"<xarray.DataArray ()>
+array(0.34329116)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51750249)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02867806)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17678419)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34585827)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51503939)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17014803)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.34587406)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51622257)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17053205)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34334168)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51324419)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.05918524)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18231306)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.33696187)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51533937)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16621021)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.3275161)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49007704)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14956639)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.32958345)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50042225)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15644194)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.34434195)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51804739)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1440401)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.34494102)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51924522)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.03035445)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17013848)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.33616384)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50665949)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1589664)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.35146131)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51681564)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16125286)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.34787887)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52441661)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.04033928)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18163291)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.3450555)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52053412)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.04418805)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17886636)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38029414)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53523572)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12783061)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14726085)
+Coordinates:
+    spatial_ref  int32 4326",6600
+"<xarray.DataArray ()>
+array(0.34614049)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54584418)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00040371)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16524354)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36214092)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53988642)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01111009)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1635769)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36094501)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54273153)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00622975)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16139838)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.32117043)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53612267)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.05395232)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18820987)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.35116349)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53896166)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02597524)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16523994)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.37318953)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53773193)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04117478)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.131212)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.3277148)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46728194)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13374128)
+Coordinates:
+    spatial_ref  int32 4326",6600
+"<xarray.DataArray ()>
+array(0.32350296)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46368368)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13534439)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.31363206)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46305395)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12675038)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.38062177)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51699888)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.23002829)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.088686)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.341505)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46990969)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13595257)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.38724699)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52701999)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19832632)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09853989)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39488652)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51889492)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.23468997)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09103194)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.34152597)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46394368)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0033863)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10384471)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.32117881)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.45913307)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12749796)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.33345848)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46912822)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13331124)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.33759664)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46833733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13625108)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.33279763)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46660991)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13264729)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.33165738)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.47102052)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13270644)
+Coordinates:
+    spatial_ref  int32 4326",6600
+"<xarray.DataArray ()>
+array(0.35449035)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.47546473)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01004656)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11307888)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.34091489)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.4728221)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01452689)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13634772)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.4018205)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52753024)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.23549879)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09097091)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36498093)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49506617)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01556886)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12057031)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36843206)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52509912)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07002606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11168312)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.37381291)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50785399)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07002606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09794842)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37357608)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50804933)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07002606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1036593)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.3736271)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50884088)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07002606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09921241)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37932509)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51335081)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07002606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10373185)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37689622)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53803497)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07002606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11097377)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.39033687)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54340471)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19286591)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09001914)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38158872)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52361876)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07002606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10655257)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.3764959)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5304725)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00038241)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11794436)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39000229)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50380072)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.25299549)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07909919)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.3966851)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50329384)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.26822545)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07664752)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35934491)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50210637)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01014062)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11962029)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.3604737)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49787401)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00954635)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11825295)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36225835)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50448322)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00954635)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12177998)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.3616236)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50594299)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0116129)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12610853)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.36080296)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5071137)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0116129)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12478137)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36528278)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50828495)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02400238)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12929781)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.36884645)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51221588)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.05918524)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13892298)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.39094812)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54605393)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19279291)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09974526)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37201834)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51863482)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.05918524)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14811733)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37605105)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53893416)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07002606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11795458)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35229861)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51677962)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02226415)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16936664)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.35234345)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51491917)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16462531)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.35194675)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51720452)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16154804)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.35320044)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50273749)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0116129)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1216065)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35849881)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50134656)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01188772)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11963295)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.35435138)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.48434123)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00525355)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11373826)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.35658811)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49229748)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00772044)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11548382)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.34837476)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.47457708)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01485347)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11049553)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38389706)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.67512813)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0470035)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18740723)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.37333152)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.67315684)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05259967)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18247132)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36820061)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.66787488)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05137414)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17863664)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.38034186)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.70196365)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0334889)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19449709)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.38021032)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.69137141)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03051645)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19633854)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.38678538)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.67148511)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03718188)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18801475)
+Coordinates:
+    spatial_ref  int32 4326",7760
+"<xarray.DataArray ()>
+array(0.37878591)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.705895)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02995931)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20071752)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.38173284)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.70157523)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03000539)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19697943)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38471908)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.69385379)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02978477)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19434782)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.38660784)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.68681213)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03044171)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18951752)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38312412)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.69976607)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02343129)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19365128)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.38967967)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71159025)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02742529)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19550822)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.3792908)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56174941)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13325702)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13625795)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38032004)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55973019)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12917626)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13664186)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.37612657)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.58082039)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11315865)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14094915)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.37719466)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.62411523)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08440254)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16367164)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37747682)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.58985007)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11424986)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14646063)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37537503)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.63166743)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08048683)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16663111)
+Coordinates:
+    spatial_ref  int32 4326",6880
+"<xarray.DataArray ()>
+array(0.37831012)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.63471079)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08111659)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16732186)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35333958)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.58888847)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10371082)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14765684)
+Coordinates:
+    spatial_ref  int32 4326",7760
+"<xarray.DataArray ()>
+array(0.35894119)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.59237319)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0920585)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15343787)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.36728363)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.63996162)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07589744)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.166419)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35243784)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56713513)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08576456)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14550629)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36987937)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.64871845)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07196738)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16938678)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.41405938)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.8204929)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08591387)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21738978)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39284986)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71994806)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04042313)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20282296)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.39803581)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.69543108)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04897695)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19102983)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39207743)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.65989024)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08051591)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17088363)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.38014549)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.61579123)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09009572)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15741734)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38831018)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.64491698)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.06726303)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17377097)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.39027903)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.66246459)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04610279)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18165108)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.390527)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72107026)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03073413)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19945934)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.39204065)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72196718)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03258233)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20223429)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.3931976)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72192939)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03489631)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20306624)
+Coordinates:
+    spatial_ref  int32 4326",6960
+"<xarray.DataArray ()>
+array(0.39235554)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72337467)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03183773)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.2037402)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.3930559)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72905149)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03122224)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20628825)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.40786766)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.83412624)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04421863)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.24132031)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.41779434)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.83044204)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03587947)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.23239584)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.41512577)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.82277238)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04394801)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22549128)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.41181008)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.82154139)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04888426)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22709941)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.41380592)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79715257)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09947939)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20608613)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.40760468)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78303029)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10864919)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21158027)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.41375865)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81809635)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07131666)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22936299)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.40792827)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.8427606)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05474763)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.24315532)
+Coordinates:
+    spatial_ref  int32 4326",7920
+"<xarray.DataArray ()>
+array(0.3988228)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.69466266)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04921935)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19128967)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.41277891)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81062558)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07556818)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21802238)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37111418)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50208786)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16207667)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09822875)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37333562)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49324122)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18142774)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09191329)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37219629)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46974148)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21350923)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07618641)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36709514)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.48537985)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19372063)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08470663)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36109746)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.4688777)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21470343)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07714126)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36506968)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46817898)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22095986)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07323414)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39086747)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5624817)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12540382)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11909234)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38724755)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5499484)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13731591)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11879812)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.38234123)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.535578)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14532797)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11500989)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38571001)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57174688)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14163313)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.127478)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.39849991)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56462766)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16004095)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11832429)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36794931)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51883571)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16592783)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09435591)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.37392666)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54573496)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16115191)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11629332)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.37545235)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53096384)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1728681)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11235891)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39318543)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55593775)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16303648)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1160635)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39938192)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.59951116)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14692912)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13065424)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.38898904)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5955315)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14465597)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13219988)
+Coordinates:
+    spatial_ref  int32 4326",7920
+"<xarray.DataArray ()>
+array(0.40811642)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.62187181)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13950357)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14007449)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.40120993)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.63052963)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13208704)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14533302)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39293355)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.61363379)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1276447)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14428948)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.41987853)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76509914)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09852544)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19179492)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.4078805)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74110326)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13433319)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18034922)
+Coordinates:
+    spatial_ref  int32 4326",7760
+"<xarray.DataArray ()>
+array(0.41425153)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73139212)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14143852)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17035316)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.40454564)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.64131575)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12650694)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14728467)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.40724722)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.70162764)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12774412)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1653185)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.40991445)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.6409708)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14440457)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1455134)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.40623978)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.62393114)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16059509)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12886574)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.38977735)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.59669085)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12971234)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14087718)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39206554)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.60995456)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12429871)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14538531)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.39464281)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.6237004)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11564257)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15084443)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39233783)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.62885073)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10718396)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15434263)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.39706138)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.65093198)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09965856)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1622157)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.39892147)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.66303037)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10012928)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16361211)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.39918356)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.67781452)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09569228)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16918826)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.42587227)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78773719)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10961307)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20646787)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.40022923)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.68585847)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07281883)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17998802)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.41850016)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77044963)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09047472)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19573291)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.39873489)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.68828723)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05502894)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18692401)
+Coordinates:
+    spatial_ref  int32 4326",6880
+"<xarray.DataArray ()>
+array(0.39446666)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.66883341)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07798502)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17418607)
+Coordinates:
+    spatial_ref  int32 4326",7760
+"<xarray.DataArray ()>
+array(0.38958574)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.64538657)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08882444)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16403637)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.39485191)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.65648656)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09022827)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16658777)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.38177178)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57491589)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12128025)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13788976)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.38737625)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5874728)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1307124)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13750381)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38058964)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56893456)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13561517)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12779781)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37543598)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53857321)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12754579)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12584376)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37626094)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54624789)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12674429)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12877922)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37825687)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53549149)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15054751)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11394362)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.37414978)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51999732)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14535113)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11342517)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37085426)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52976675)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13120659)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12175735)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37375999)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49038856)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20333971)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1011923)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.37512521)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49514746)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20126908)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1030304)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38038555)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50697092)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19621062)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10960034)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.37920933)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50414904)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19555527)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10994823)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38525532)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51944981)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1851307)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12312112)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.3893262)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52903257)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17942766)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12821346)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38580141)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51711061)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19233083)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11726713)
+Coordinates:
+    spatial_ref  int32 4326",6600
+"<xarray.DataArray ()>
+array(0.39096609)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54676973)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15764184)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14987328)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.35042361)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52744656)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16645951)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.33031549)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50421194)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.10069386)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17223034)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.39302051)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54423987)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16106027)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14488198)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38580838)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55202386)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14443159)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15563325)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.35970122)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54064879)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17191339)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35953298)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53612097)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16781005)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36115927)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52916815)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0401733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15748652)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.3856607)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52386841)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15719042)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13185297)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38303309)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51184054)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16677636)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12372769)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.381634)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51120005)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17335983)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12089397)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37778698)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50261839)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18587381)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11402858)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.37395216)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49738818)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19044678)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11029605)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36978413)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.4916442)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19048371)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10475421)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.37749908)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.4984218)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18690676)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11127368)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.42161262)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57528307)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12646249)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14114789)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.41890862)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56651704)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1307711)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13609707)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.3791913)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55688431)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.04033928)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17084519)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.36467846)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56270304)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.04033928)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18319162)
+Coordinates:
+    spatial_ref  int32 4326",6700
+"<xarray.DataArray ()>
+array(0.37725112)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5649467)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03854875)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16572239)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39203929)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55968708)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11130858)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15016514)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37678647)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56336542)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03854875)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16575165)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.41276677)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57527581)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1178459)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14794283)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.41217254)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57527581)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11894485)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14999864)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37767927)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56729554)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19970572)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11837396)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.3923196)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55575769)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11782235)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15072834)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38693261)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53004051)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21881955)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10997979)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38355513)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54470007)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16651739)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12322018)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37862833)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53992544)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18683072)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11573148)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.37143536)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53144568)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19099223)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1151317)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37114027)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52014278)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16172275)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1118826)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.36899806)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54960363)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14509744)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13894806)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.39055302)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55278299)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11843797)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15075135)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38770241)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5515513)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10209998)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15390215)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.38492916)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53904157)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15417238)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13110258)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38539448)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56087924)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13189007)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14694007)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.35901736)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53743988)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01742919)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15753299)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38240255)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54138727)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12208276)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15201261)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.36042923)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54156155)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17495017)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.35941234)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53757972)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17286698)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.3602947)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53887587)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17501705)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38235972)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54334401)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10672935)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15464241)
+Coordinates:
+    spatial_ref  int32 4326",6600
+"<xarray.DataArray ()>
+array(0.38405071)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54712448)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10399061)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15448838)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38231783)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54398072)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11855514)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15460398)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34870675)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53255051)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.04033928)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18668839)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34619798)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53126654)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.06982343)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19015863)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.36805798)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52242667)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16437214)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.36730134)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51735259)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1645486)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.3700397)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5342057)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17180975)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.34994126)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54172589)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.04033928)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19264714)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37351133)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54823985)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.04033928)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17501254)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.38861972)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55296585)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10674594)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.151463)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.39609674)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54009863)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11256586)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14347258)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36833532)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52497122)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16890887)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.36687505)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52303624)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16377428)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36859215)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52237071)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16795332)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.3678469)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52096939)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16575998)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36464123)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53740667)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17362602)
+Coordinates:
+    spatial_ref  int32 4326",6600
+"<xarray.DataArray ()>
+array(0.36627123)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53766712)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1753555)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.3676236)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54003302)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17640239)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38641233)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54759116)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14251664)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15226586)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38763161)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54752256)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13360775)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15419134)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.38852583)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5447197)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13126415)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15698358)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36221489)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53164032)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0356147)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16850173)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.36861254)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53520575)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02133816)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17544195)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39185217)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53733993)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11513341)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15236051)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39299203)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5398035)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11523523)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15021036)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39423716)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54065227)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11355102)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14858456)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39338546)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54133268)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11553033)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14796126)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39194024)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54166817)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11917935)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15239214)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39150585)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54108553)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12622422)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1546083)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.3898155)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54163782)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12557169)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15729558)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38518897)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54578992)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12691871)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14890093)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39071517)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53880371)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13007207)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14670956)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39115888)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54166064)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16564419)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13897338)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.39348082)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54166169)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15041763)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1424242)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38667716)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55879878)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12307659)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16516288)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.3818589)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55540755)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11859927)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16666484)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.39271437)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55613665)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1129368)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16343373)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38901532)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5444334)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12869063)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1574124)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.39287641)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54285569)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12708676)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15406157)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.40200631)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.562296)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10834416)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1543683)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.41771983)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56879346)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10810561)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14367454)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.40626141)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56445954)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10030119)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15093793)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.39656609)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55404317)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10821947)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15989945)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.39228164)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55174408)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11634883)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1540035)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.38983947)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54922527)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13562927)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15633614)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.3686543)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49734723)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19130762)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10685278)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.37043638)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53050345)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1294186)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13505592)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.38095378)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50453231)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17034919)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11797659)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.37975695)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51683317)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15070166)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12794264)
+Coordinates:
+    spatial_ref  int32 4326",6500
+"<xarray.DataArray ()>
+array(0.37594018)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53919216)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10617643)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1548558)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38401633)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53717789)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13264952)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14248667)
+Coordinates:
+    spatial_ref  int32 4326",5500
+"<xarray.DataArray ()>
+array(0.3547833)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.64104737)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11948038)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14298637)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35566579)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.64734139)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11188515)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14488521)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.35699951)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.66061847)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10405743)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15093423)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35757075)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.65814357)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1051362)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15086673)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.352094)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.62931005)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1235023)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13694381)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.35776324)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.66080297)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09063878)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15643227)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.36052067)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.69418353)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08095778)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16817579)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.35979461)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.70119463)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07816485)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17011282)
+Coordinates:
+    spatial_ref  int32 4326",7760
+"<xarray.DataArray ()>
+array(0.35843659)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.70429973)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07848899)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17053935)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.35633622)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.67691776)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09781619)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15868307)
+Coordinates:
+    spatial_ref  int32 4326",7400
+"<xarray.DataArray ()>
+array(0.36676722)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.68193326)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04934331)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18400555)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.36215719)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73232305)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04683455)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19445773)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.3622953)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.65768422)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0632778)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1706922)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.35947849)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72146201)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05551358)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1867105)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.36199615)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74022062)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05153824)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19370697)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36336584)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73187098)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04572189)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19336017)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36892032)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71746842)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03893594)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19755566)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37290323)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.70489868)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03553793)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19662389)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37217748)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.6917303)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03712897)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19068037)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.35594624)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72194163)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08470048)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17552671)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.35670245)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71899617)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08309155)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16948887)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35721831)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.70896953)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08958761)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16442907)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.34727159)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.69526355)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09738043)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16130911)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.34105897)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.65758601)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11646823)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14689099)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.34670603)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.65161198)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13316772)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13880471)
+Coordinates:
+    spatial_ref  int32 4326",7760
+"<xarray.DataArray ()>
+array(0.35059828)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.67880602)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10846588)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1540747)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35676021)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7001899)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09287557)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16257932)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.35896999)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72192247)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08447342)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17504695)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.35973805)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73186902)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02139268)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1899975)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35916641)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72664754)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02285305)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18877775)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35789356)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73009577)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03108578)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18657053)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.37375358)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72216515)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02000449)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1895834)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36464677)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72346602)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01765548)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18530634)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37230553)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72653957)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01549098)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19525662)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.35832553)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72809357)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01508629)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19053784)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37270566)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73109513)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01309384)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19719234)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.36052054)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73583952)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01750626)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19044816)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36021322)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73798443)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01871184)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19501319)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.41771507)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79237648)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16058777)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19027744)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.40139623)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.80383921)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09905443)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21385619)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.35934975)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74093519)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01918756)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19578943)
+Coordinates:
+    spatial_ref  int32 4326",6960
+"<xarray.DataArray ()>
+array(0.37349982)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73607964)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01572684)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20046919)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.41775997)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.80313189)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10921348)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19837778)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.42071195)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79628394)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11466448)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19248872)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.40961067)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79708364)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10931024)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20466883)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.41819354)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78839188)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15055176)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18892327)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.40461695)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81116164)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.06225518)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22875854)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(nan)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(nan)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(nan)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(nan)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38534663)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74201648)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0241903)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20520993)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.36485598)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74360284)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02185907)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19883935)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.3753478)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74378394)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01795761)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20362056)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.36445562)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73886263)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01661637)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19901066)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.40610622)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81214808)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07233471)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21686921)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.40869709)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.83079122)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04503317)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22992401)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.40109395)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81520213)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07110022)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21694467)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.40227822)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81352595)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05446685)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22616531)
+Coordinates:
+    spatial_ref  int32 4326",7920
+"<xarray.DataArray ()>
+array(0.39107714)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73959108)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02097491)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21037315)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.39185925)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73444001)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02369927)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20835797)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.3906255)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73603403)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0195789)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21025508)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.39106493)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73980083)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02051679)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21046749)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38586315)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73861369)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01862642)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.2073536)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.38428667)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7420772)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01907723)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20562429)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.38642324)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74102529)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01913783)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20747511)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38810113)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7403515)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01889528)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20879731)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38828543)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72812407)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0223998)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20198802)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.38638191)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7234767)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01913852)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19915025)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.38611974)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72054515)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02026631)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19810132)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38558772)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71410737)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02039595)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19675205)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37976163)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7117449)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0165166)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19627614)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38622541)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72648087)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01884293)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20074243)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38759622)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73015364)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02100749)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20324057)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.38736687)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73081799)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01877507)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20658101)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37913068)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73159316)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01985233)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20020569)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36611335)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7276557)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01841645)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19014199)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37519578)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71964957)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0192611)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18743066)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.38002033)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72005207)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01574774)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19857847)
+Coordinates:
+    spatial_ref  int32 4326",7500
+"<xarray.DataArray ()>
+array(0.37790336)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72254522)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02607069)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19098165)
+Coordinates:
+    spatial_ref  int32 4326",7500
+"<xarray.DataArray ()>
+array(0.38160148)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72368316)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.021883)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19616361)
+Coordinates:
+    spatial_ref  int32 4326",7500
+"<xarray.DataArray ()>
+array(0.37803711)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72062908)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01727394)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19622509)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.37929962)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71877216)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02325518)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19945394)
+Coordinates:
+    spatial_ref  int32 4326",7500
+"<xarray.DataArray ()>
+array(0.38355228)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72229569)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01450969)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20150062)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37977339)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71097313)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02355172)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19854289)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37053754)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72882096)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03018963)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19987026)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38161957)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73478867)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03000824)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20267191)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.36391178)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74082974)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05008191)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19376847)
+Coordinates:
+    spatial_ref  int32 4326",7900
+"<xarray.DataArray ()>
+array(0.37076952)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72331665)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02881161)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19859937)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37663434)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71328903)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03095012)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19843393)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37400485)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72063834)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02728686)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19607428)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.38464498)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7319898)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02593717)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20688296)
+Coordinates:
+    spatial_ref  int32 4326",7760
+"<xarray.DataArray ()>
+array(0.38235564)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73923423)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03138768)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19950766)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37906595)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73692492)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03291853)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19605449)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.37886893)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73677416)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03396153)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19585917)
+Coordinates:
+    spatial_ref  int32 4326",7400
+"<xarray.DataArray ()>
+array(0.37680539)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73591828)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03545814)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19474241)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.38082841)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73925625)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03919944)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19940938)
+Coordinates:
+    spatial_ref  int32 4326",7500
+"<xarray.DataArray ()>
+array(0.36753648)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76752927)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05102264)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19676289)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36285413)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74390608)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.06856136)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18671687)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.3597392)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73313422)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07636222)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18030937)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36156519)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74700613)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05833299)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19371367)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.36470306)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75664241)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05142191)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19778783)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36586648)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76015331)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04536479)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1999363)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.36750342)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75829616)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04734736)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19851933)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.36384221)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74516453)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04565482)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19630066)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37828575)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73899649)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04350321)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19723529)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.37153637)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71839206)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02342666)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18610228)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.37377565)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.72585395)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02058665)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19342011)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37682507)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73810266)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02895656)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19795825)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.3697433)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77092808)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03543597)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20136816)
+Coordinates:
+    spatial_ref  int32 4326",6880
+"<xarray.DataArray ()>
+array(0.36779875)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75149563)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03149869)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20019086)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.36447551)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74706579)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05035601)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19445078)
+Coordinates:
+    spatial_ref  int32 4326",7000
+"<xarray.DataArray ()>
+array(0.36556626)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75709506)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05081327)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19819515)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36802727)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76481889)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03719953)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20123861)
+Coordinates:
+    spatial_ref  int32 4326",7040
+"<xarray.DataArray ()>
+array(0.35585827)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73158117)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07126133)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16677104)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36172734)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73924207)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07025107)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17505119)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35592669)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.71550208)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08135978)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16653143)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35907997)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73329954)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07534481)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17391821)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.36597732)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75469481)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0527254)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18630527)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36687912)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76655996)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05157893)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19271712)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36550549)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7635739)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.06670084)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18930244)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35488585)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.48965065)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02182528)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10738101)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.33079431)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.46710873)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02182528)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13286267)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34392617)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49313357)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0156962)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12014181)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.34207885)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50796944)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00651174)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13351779)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.34421489)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49293909)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01668548)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11986732)
+Coordinates:
+    spatial_ref  int32 4326",6240
+"<xarray.DataArray ()>
+array(0.35973804)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.47938036)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22755559)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0973512)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36835265)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.48826841)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.23222933)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09924833)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37126598)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49848151)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.23824176)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1040819)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36323998)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49844621)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1294186)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11931439)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.34118924)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51241856)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00760922)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15653642)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35783396)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50459225)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18866009)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1245012)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.34585652)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51087854)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02647443)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14209169)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.33305878)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5164808)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.03493862)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17504678)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.33306327)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54531758)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.08622909)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17522721)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.3587842)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49394387)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1294186)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11640366)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.35739202)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.49659979)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1294186)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11992656)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.36242201)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50204824)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1294186)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12489547)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.35803194)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50161826)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1294186)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12391307)
+Coordinates:
+    spatial_ref  int32 4326",6160
+"<xarray.DataArray ()>
+array(0.35510289)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51280046)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14774258)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13039142)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.37296942)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54871455)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09785877)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14195786)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.35455276)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52459415)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.06986232)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1699261)
+Coordinates:
+    spatial_ref  int32 4326",5440
+"<xarray.DataArray ()>
+array(0.36433543)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53939752)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02060663)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15684555)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.35978114)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5555984)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01459437)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15589166)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34793614)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54075686)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.08710023)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17460474)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.33440881)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53876834)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.07595794)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18471442)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.35871092)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55785688)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00117316)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14609203)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.34757912)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.51558652)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00515712)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15403185)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34074594)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52068254)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01077821)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15822414)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.33701699)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53414018)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00669715)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17786792)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.3235193)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53009779)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.025565)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18204712)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.32987278)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53004514)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0007837)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17116941)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.32598708)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.52999442)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01943506)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17599193)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.35998992)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56006692)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03177628)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18187377)
+Coordinates:
+    spatial_ref  int32 4326",5200
+"<xarray.DataArray ()>
+array(0.3762365)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55298791)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05094937)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1619705)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37844141)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55920663)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00280231)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17253965)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.33806957)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54825343)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00472215)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1845566)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.33357476)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54483988)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.0077138)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18924346)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.32076367)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53239385)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00781147)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18775503)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.34772676)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53401723)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01807502)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17618897)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.35895777)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55756787)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01271259)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17156756)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36770565)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5556281)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04444679)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18622778)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36838602)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55941747)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03410037)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18328502)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37094725)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56974275)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00548017)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18705369)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.42087102)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57686771)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0895021)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14625904)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.42216644)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57001314)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10381289)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14139488)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.42224634)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57000974)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11357712)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13915782)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.3830752)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57391052)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0471472)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16169257)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.38556303)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57382682)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04225151)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17446413)
+Coordinates:
+    spatial_ref  int32 4326",5200
+"<xarray.DataArray ()>
+array(0.37052408)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57100332)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03004941)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18697634)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.40387302)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56886661)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03385321)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16497149)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36255443)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56865029)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02924312)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18078297)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.34759437)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53733849)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0007837)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16314457)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.34818102)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53766489)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0007837)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15899924)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.35232687)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53679663)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05094937)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15731221)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.3547963)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53753503)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05094937)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15637152)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.37737134)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55182552)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05094937)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1613396)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36043744)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53783378)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0007837)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15603953)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.3440158)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5372048)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0007837)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16145425)
+Coordinates:
+    spatial_ref  int32 4326",5200
+"<xarray.DataArray ()>
+array(0.35541634)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5225333)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01259916)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13776769)
+Coordinates:
+    spatial_ref  int32 4326",6000
+"<xarray.DataArray ()>
+array(0.37130875)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53152755)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03374477)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1383145)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.32324364)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.50700661)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01259916)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16200967)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36532376)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55110343)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.06070803)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15507265)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.3866556)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53120037)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03060846)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13609626)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.40185718)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53097054)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.2578591)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09663847)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36578245)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5539355)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.07017378)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17051252)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36875638)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.53283001)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02715648)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14654339)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.37138309)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.54964497)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01838691)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14730786)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36229586)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56428093)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02192452)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16370542)
+Coordinates:
+    spatial_ref  int32 4326",6520
+"<xarray.DataArray ()>
+array(0.35991842)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57287534)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03032892)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1718398)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.35936774)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56134104)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02504058)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17699496)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.35807464)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.5546442)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02745608)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17337083)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36730151)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57595377)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02281172)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17062092)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.39081675)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57612637)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.06390362)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15331144)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.37700235)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57678735)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.06902551)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16964199)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36466256)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.60001893)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.07123386)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16931006)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.40730841)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57561241)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.06906776)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14822172)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.40771618)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57026717)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11054115)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14115394)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.36705849)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57566462)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.04769392)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16110887)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.37591198)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57553172)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11393774)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16241178)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.40811484)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57420007)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12129016)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14316486)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.41480376)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.57048147)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0937263)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.14853298)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.42102657)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56952162)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12653975)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.13537564)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.39969899)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.56257693)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10332616)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.15355008)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.37216798)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.55132285)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01642105)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17557529)
+Coordinates:
+    spatial_ref  int32 4326",5600
+"<xarray.DataArray ()>
+array(0.35295264)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81980812)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00604045)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20130107)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.37437764)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.8127379)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09919303)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18652971)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36873227)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79556037)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10872731)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18181082)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.33633929)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76786912)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03021978)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17606494)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.32450568)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74096484)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03021978)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16838936)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.32758774)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74017818)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03021978)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17010488)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36088172)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76772954)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10170544)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17911587)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.36829372)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79494002)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11356019)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18253884)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.35422244)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75218332)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12691783)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16697146)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35639136)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81461457)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05486511)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19879415)
+Coordinates:
+    spatial_ref  int32 4326",6960
+"<xarray.DataArray ()>
+array(0.36250239)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.82140482)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01677106)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20076302)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.34471754)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74000858)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.12213996)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16724849)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.34346386)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73754807)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.02905173)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1736526)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35021421)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73734125)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04338442)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17332062)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.34960988)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73765415)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09189749)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.16656516)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.35120622)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73631439)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04872867)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17342009)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.35890464)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74262722)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04456583)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18021019)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.3436337)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77870234)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05486511)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19365168)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35159066)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79728669)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05486511)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20186732)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.35413854)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79932235)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05486511)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20136029)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.38324437)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.82802291)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10937618)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.2009131)
+Coordinates:
+    spatial_ref  int32 4326",7760
+"<xarray.DataArray ()>
+array(0.37419557)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.80031733)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.11290247)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19109154)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.36670554)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.84190741)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04941531)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21346947)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.36489603)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.83969044)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01677106)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21329285)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36621703)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.82797519)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01677106)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20388156)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.33674281)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75423352)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03913292)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19193072)
+Coordinates:
+    spatial_ref  int32 4326",6800
+"<xarray.DataArray ()>
+array(0.34695033)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74204738)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00011232)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17836839)
+Coordinates:
+    spatial_ref  int32 4326",7440
+"<xarray.DataArray ()>
+array(0.33429954)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76299829)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00049022)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19866596)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35451669)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7800799)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00866119)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19849924)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.35196889)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79518684)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05486511)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19776381)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35396122)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78521249)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05486511)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19450583)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.34253599)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.76982498)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05486511)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19056056)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.3499654)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73843487)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00581145)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1793614)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35912646)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7724184)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01989999)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20169482)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35448111)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78083863)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00292836)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19910531)
+Coordinates:
+    spatial_ref  int32 4326",7840
+"<xarray.DataArray ()>
+array(0.35319238)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77809245)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00975896)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20291218)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35951897)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78542755)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00716484)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20741701)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36567563)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79097322)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00097475)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21232223)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36592574)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78868739)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00168898)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21126912)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35924467)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78111364)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00937016)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20376329)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35585251)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77511148)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00657752)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20056703)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36469724)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79581324)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03665444)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20371902)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36641108)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78908407)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03372716)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20503649)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36905584)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79557832)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03005528)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21076524)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36958721)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78673651)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03193431)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.2067573)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36754912)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75412019)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03498533)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19713697)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36779137)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74289589)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03919706)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.1862977)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37206465)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75736257)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0473392)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18766381)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36240972)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79448402)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00167028)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20199029)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.3641306)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79819908)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0026333)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20152206)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36423933)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78785735)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.08005)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19655381)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36787456)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79164101)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.09242227)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19121368)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36102604)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78414724)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05228646)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19614444)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35956206)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78483804)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03196712)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19748595)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36554871)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.80294059)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04806296)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19568182)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.37062307)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.80970373)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10315968)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19239231)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36915987)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.81622377)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10175732)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19030557)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37966173)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.82923788)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00514886)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20195597)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.37604621)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7927801)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.07144261)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17980849)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.37104831)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.80960676)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00047536)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19463832)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.36331804)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.8078991)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00011566)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19865587)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.3838834)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.84083654)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00519804)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.207098)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.42647087)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.86178115)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04272819)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.2275514)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.37607123)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79431133)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04269413)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18278887)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.42674231)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.85787367)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.04854846)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22700699)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.36397038)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7533236)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.049773)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18309466)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35801107)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.79688139)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.02532064)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20115354)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35339605)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78162472)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.01143208)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19372361)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.35622442)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77703276)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0367109)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19001865)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.3626645)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75177749)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05077849)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17742086)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36024162)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77080459)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0102955)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18789181)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35852002)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78268817)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00740843)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19481407)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36315299)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7807686)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00356634)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19034877)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.41697648)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.814232)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03344234)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20985105)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.41758693)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.82266699)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03590287)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.21383462)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.4153159)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.83744348)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.00836351)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22305879)
+Coordinates:
+    spatial_ref  int32 4326",7600
+"<xarray.DataArray ()>
+array(0.36617728)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74855607)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05507742)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18083208)
+Coordinates:
+    spatial_ref  int32 4326",8000
+"<xarray.DataArray ()>
+array(0.36753517)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74471338)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.05727206)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.17930489)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.39083588)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78911132)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.00666135)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.22217781)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36976398)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.74925079)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03874379)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18586379)
+Coordinates:
+    spatial_ref  int32 4326",7840
+"<xarray.DataArray ()>
+array(0.39434127)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.75191883)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.10906984)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19520499)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.40172911)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.8280854)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.06188885)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.23483134)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35878888)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.73444934)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03197605)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18625721)
+Coordinates:
+    spatial_ref  int32 4326",6640
+"<xarray.DataArray ()>
+array(0.35749215)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.7292515)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.03425149)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.18528485)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.36943429)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77009123)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.0278391)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20090106)
+Coordinates:
+    spatial_ref  int32 4326",7200
+"<xarray.DataArray ()>
+array(0.35935151)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.78740379)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.008375)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.19884502)
+Coordinates:
+    spatial_ref  int32 4326",6400
+"<xarray.DataArray ()>
+array(0.35271654)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.77860406)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(-0.01665887)
+Coordinates:
+    spatial_ref  int32 4326","<xarray.DataArray ()>
+array(0.20216276)
+Coordinates:
+    spatial_ref  int32 4326",7200
